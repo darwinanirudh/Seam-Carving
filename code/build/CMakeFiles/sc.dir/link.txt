@@ -1,0 +1,1 @@
+/encs/bin/g++    -rdynamic CMakeFiles/sc.dir/src/main.cpp.o CMakeFiles/sc.dir/src/sc.cpp.o  -o sc  -L/encs/pkg/opencv-3.3.0/root/lib -Wl,-rpath,/encs/pkg/opencv-3.3.0/root/lib -lopencv_core -lopencv_imgproc -lopencv_highgui -lopencv_imgcodecs 

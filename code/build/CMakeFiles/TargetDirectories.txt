@@ -1,0 +1,3 @@
+/home/d/d_godava/algo/p2/new/code/build/CMakeFiles/rebuild_cache.dir
+/home/d/d_godava/algo/p2/new/code/build/CMakeFiles/edit_cache.dir
+/home/d/d_godava/algo/p2/new/code/build/CMakeFiles/sc.dir
